@@ -175,15 +175,6 @@ Utilizo este GitHub para registrar minha evolução, compartilhar projetos e tra
 
 > **Aprender -> Praticar -> Construir -> Evoluir**
 
----
-
-## Estatísticas do GitHub
-
-Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub.
-
-```text
-GitHub: https://github.com/SEU_USUARIO
-```
 
 ---
 
