@@ -59,8 +59,6 @@ Meu objetivo é transformar conhecimentos teóricos em projetos práticos e dese
 
 ## Interesses de desenvolvimento
 
-Tenho interesse principalmente nas seguintes áreas:
-
 * Inteligência Artificial
 * Machine Learning
 * Desenvolvimento de Software
