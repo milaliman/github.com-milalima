@@ -74,34 +74,6 @@ Tenho interesse principalmente nas seguintes áreas:
 
 ---
 
-## Projetos em destaque
-
-### Gerenciador de Notas
-
-Projeto acadêmico desenvolvido para praticar conceitos fundamentais de programação, organização de dados e desenvolvimento de uma aplicação funcional.
-
-**Tecnologia:** `Python`
-
-[Ver repositório](#)
-
-### Sistema de Controle de Estoque
-
-Aplicação desenvolvida para praticar lógica de programação, estruturas de dados, funções, condicionais e organização de código.
-
-**Tecnologia:** `Python`
-
-[Ver repositório](#)
-
-### Jogo da Forca
-
-Projeto desenvolvido para consolidar conhecimentos de lógica de programação, estruturas condicionais, estruturas de repetição, funções e manipulação de dados.
-
-**Tecnologia:** `Python`
-
-[Ver repositório](#)
-
----
-
 ## Projetos acadêmicos
 
 Utilizo este GitHub para documentar minha evolução acadêmica e transformar os conhecimentos adquiridos no curso de Engenharia de Software em projetos práticos.
@@ -219,9 +191,9 @@ GitHub: https://github.com/SEU_USUARIO
 
 ## Contato
 
-* [LinkedIn](#)
-* [GitHub](#)
-* [E-mail](#)
+* [linkedin.com/in/milaine-lima6788](#)
+* [github.com/milaliman](#)
+* [milacliman@gmail.com](#)
 
 ---
 
